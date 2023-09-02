@@ -24,7 +24,7 @@ Code released under the MIT license.
 
 ## About the Author
 
-Toekang is created by <a href="https://kdandy.com">dandy</a>.
+coffee3d is created by <a href="https://kdandy.com">dandy</a>.
 
 ## Bugs and Issues
 
